@@ -1,1 +1,1 @@
-I am working on shell basics
+This displays the content list of your current directory
