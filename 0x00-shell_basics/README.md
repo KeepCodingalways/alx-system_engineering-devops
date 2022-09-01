@@ -1,1 +1,1 @@
-Create a symbolic link
+14. Copy HTML files
