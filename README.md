@@ -1,1 +1,1 @@
-Display current directory contents.
+6. Welcome
