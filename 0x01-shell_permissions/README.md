@@ -1,1 +1,1 @@
-ultiple permission
+7. Everybody!
